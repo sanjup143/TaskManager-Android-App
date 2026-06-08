@@ -165,6 +165,21 @@ com.sanju.taskmanager
 
 ---
 
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/sanjup143/TaskManager-Android-App.git
+```
+
+2. Open the project in Android Studio
+
+3. Sync Gradle
+
+4. Build and run the application
+
+
 ## 🎯 Learning Outcomes
 
 This project demonstrates:
@@ -188,6 +203,14 @@ This project demonstrates:
 Android Developer | Kotlin | MVVM | Room | WorkManager
 
 GitHub: [@sanjup143](https://github.com/sanjup143)
+
+---
+
+## Project Status
+
+Completed Android Task Manager application built with Kotlin, MVVM Architecture, Room Database, WorkManager, Local Notifications, Search & Filtering, Statistics Dashboard, Dark Mode, and Swipe To Delete functionality.
+
+This project was developed as a portfolio application to demonstrate modern Android development practices and productivity-focused application design.
 
 ---
 
