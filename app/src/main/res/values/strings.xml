@@ -50,4 +50,6 @@
     <string name="sample_due_date">Due Date: 04 Jun 2026</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">UNDO</string>
 </resources>

@@ -371,8 +371,8 @@ class MainActivity : AppCompatActivity() {
     private fun deleteTaskWithUndo(task: Task) {
         taskViewModel.deleteTask(task)
 
-        Snackbar.make(binding.root, "Task deleted", Snackbar.LENGTH_LONG)
-            .setAction("UNDO") {
+        Snackbar.make(binding.root, getString(R.string.task_deleted), Snackbar.LENGTH_LONG)
+            .setAction(getString(R.string.undo)) {
                 taskViewModel.insertTask(task)
             }
             .show()

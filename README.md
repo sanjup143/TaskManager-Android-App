@@ -17,6 +17,8 @@ This app helps users create, organize, track, and manage daily tasks efficiently
 * Add new tasks
 * Edit existing tasks
 * Delete tasks
+* Swipe to delete tasks
+* Undo deleted tasks
 * Mark tasks as completed
 * Track pending tasks
 
@@ -135,6 +137,10 @@ Room Database
 
 ![Notification](screenshots/task_notification.png)
 
+### Swipe Delete + Undo
+
+![Swipe Delete](screenshots/swipe_delete_undo.png)
+
 ---
 
 ## 📂 Project Structure
@@ -169,9 +175,10 @@ This project demonstrates:
 * RecyclerView Implementation
 * Local Notifications
 * Search & Filtering Logic
+* Swipe To Delete using ItemTouchHelper
+* Snackbar Undo Actions
 * Dark Mode Support
 * Modern Android Development Practices
-
 ---
 
 ## 👨‍💻 Developer
