@@ -1,4 +1,6 @@
-![Task Manager App Icon](screenshots/app_icon.png)
+<p align="center">
+  <img src="screenshots/app_icon.png" width="120">
+</p>
 
 # 📋 Task Manager App
 
