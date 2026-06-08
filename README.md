@@ -165,6 +165,12 @@ com.sanju.taskmanager
 
 ---
 
+## Download APK
+
+[Download Latest APK](https://github.com/sanjup143/TaskManager-Android-App/releases)
+
+---
+
 ## Installation
 
 1. Clone the repository
