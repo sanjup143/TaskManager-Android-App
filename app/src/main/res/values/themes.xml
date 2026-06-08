@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Base.Theme.TaskManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6F50B5</item>
+        <item name="colorPrimaryVariant">#5E43A3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#6F50B5</item>
+    </style>
+
+    <style name="Theme.TaskManager" parent="Base.Theme.TaskManager" />
+
+</resources>
